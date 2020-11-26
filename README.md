@@ -1,7 +1,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.8-hotpink.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-3.0-hotpink.svg)](https://djangoproject.com)
 
-[Watch it in Youtube](https://youtu.be/QnviZrFr6co)
 
 To run the project:
 1. Clone the repository
